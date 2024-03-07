@@ -10,6 +10,12 @@
   --dark-color: #000;
 }
 
+#ttt{
+  color: white;
+  text-align: center;
+  font-size: 500%;
+  margin-top:40%;
+}
 body {
   display: flex;
   align-items: flex-end;
